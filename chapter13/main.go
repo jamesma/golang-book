@@ -33,9 +33,12 @@ func main() {
 	fmt.Println("Sha1Demo...")
 	core.Sha1Demo()
 
-	fmt.Println("ServerDemo...")
-	core.ServerDemo()
+	// fmt.Println("ServerDemo...")
+	// core.ServerDemo()
 
-	fmt.Println("HttpServerDemo...")
-	core.HttpServerDemo()
+	// fmt.Println("HttpServerDemo...")
+	// core.HttpServerDemo()
+
+	fmt.Println("RpcDemo...")
+	core.RpcDemo()
 }
