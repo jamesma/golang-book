@@ -35,4 +35,7 @@ func main() {
 
 	fmt.Println("ServerDemo...")
 	core.ServerDemo()
+
+	fmt.Println("HttpServerDemo...")
+	core.HttpServerDemo()
 }
