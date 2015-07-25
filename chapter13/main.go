@@ -26,4 +26,10 @@ func main() {
 
 	fmt.Println("SortDemo...")
 	core.SortDemo()
+
+	fmt.Println("Crc32Demo...")
+	core.Crc32Demo()
+
+	fmt.Println("Sha1Demo...")
+	core.Sha1Demo()
 }
