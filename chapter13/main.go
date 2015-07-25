@@ -32,4 +32,7 @@ func main() {
 
 	fmt.Println("Sha1Demo...")
 	core.Sha1Demo()
+
+	fmt.Println("ServerDemo...")
+	core.ServerDemo()
 }
