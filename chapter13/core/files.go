@@ -2,7 +2,7 @@ package core
 
 import (
 	"fmt"
-	"io/ioUtil"
+	"io/ioutil"
 	"os"
 	"path/filepath"
 )

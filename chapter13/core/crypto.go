@@ -4,7 +4,7 @@ import (
 	"crypto/sha1"
 	"fmt"
 	"hash/crc32"
-	"io/ioUtil"
+	"io/ioutil"
 )
 
 func getHash(filename string) (uint32, error) {
