@@ -39,6 +39,9 @@ func main() {
 	// fmt.Println("HttpServerDemo...")
 	// core.HttpServerDemo()
 
-	fmt.Println("RpcDemo...")
-	core.RpcDemo()
+	// fmt.Println("RpcDemo...")
+	// core.RpcDemo()
+
+	fmt.Println("FlagDemo...")
+	core.FlagDemo()
 }
